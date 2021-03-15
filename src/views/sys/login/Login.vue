@@ -12,7 +12,7 @@
     <div class="container relative h-full py-2 mx-auto sm:px-10">
       <div class="flex h-full">
         <div class="hidden xl:flex xl:flex-col xl:w-6/12 min-h-full mr-4 pl-4">
-          <AppLogo class="-enter-x" />
+<!--          <AppLogo class="-enter-x" />-->
           <div class="my-auto">
             <img
               :alt="title"

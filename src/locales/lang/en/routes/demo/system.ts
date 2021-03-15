@@ -6,7 +6,4 @@ export default {
   password: 'Change password',
 
   dept: 'Department management',
-
-  menu: 'Menu management',
-  role: 'Role management',
 };
